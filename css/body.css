@@ -1,0 +1,18 @@
+.body {
+    font-family: "Lato", sans-serif;
+    padding: 10px;
+    margin: 0;
+    background-image: url("../images/backgroundblack.jpg");
+    background-size: cover;
+    background-position: center;
+    color: aliceblue;
+}
+
+.footer {
+    border-top: solid 1px #ffb400;
+    padding: 10px;
+    text-align: center;
+    font-weight: 700;
+    margin: 0 auto;
+    width: 700px;
+}

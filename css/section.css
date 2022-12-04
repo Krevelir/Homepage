@@ -1,0 +1,56 @@
+.section__buttonContainer {
+    text-align: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+    width: 720px;
+}
+
+.section__button {
+    text-align: center;
+    background-image: url("../images/backgroundbuttongold.jpg");
+    background-size: cover;
+    padding: 5px;
+    border: none;
+}
+
+.section__button:hover {
+    background-image: url("../images/backgroundbuttongoldhover.jpg");
+}
+
+.section__header {
+    text-align: center;
+    color: #282828;
+    background-image: url("../images/backgroundbuttongold.jpg");
+    background-size: cover;
+    padding: 10px;
+    margin: 0 auto;
+    width: 700px;
+}
+
+.section__photoContainer {
+    text-align: center;
+    margin: 0 auto;
+    height: 500px;
+    padding: 10px;
+}
+
+.section__myPhoto {
+    border-radius: 10px;
+}
+
+.section__text {
+    text-align: justify;
+    line-height: 1.5;
+    font-size: 16px;
+    font-weight: 700;
+    max-width: 700px;
+    color: aliceblue;
+    margin: 0 auto;
+    width: 720px;
+}
+
+.section__text--link {
+    text-decoration: none;
+    color: aliceblue;
+    font-weight: 700;
+}

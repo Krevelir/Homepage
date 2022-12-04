@@ -1,0 +1,21 @@
+.lightTheme {
+    background-image: url("../images/backgroundwhite.jpg");
+}
+
+.lightTheme .section__text {
+    color: #282828;
+}
+
+.lightTheme .section__text--link {
+    color: #282828;
+}
+
+.lightTheme .footer {
+    color: #282828;
+    border-top: solid 1px black;
+}
+
+.lightTheme .headerMain {
+    color: #282828;
+    border-bottom: solid 1px black;
+}

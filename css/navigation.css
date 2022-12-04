@@ -1,0 +1,29 @@
+.navigation__list {
+    text-align: center;
+    display: flex;
+    width: 700px;
+    justify-content: center;
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+
+.navigation__item {
+    background-image: url("../images/backgroundbuttongold.jpg");
+    background-size: cover;
+    border-collapse: collapse;
+    margin: 10px;
+    padding: 10px;
+    flex-basis: 150px;
+    flex-grow: 1;
+}
+
+.navigation__item:hover {
+    background-image: url("../images/backgroundbuttongoldhover.jpg");
+}
+
+.navigation__link {
+    font-weight: 700;
+    color: #282828;
+    text-decoration: none;
+    flex-grow: 1;
+}
