@@ -1,7 +1,7 @@
 .navigation__list {
     text-align: center;
     display: flex;
-    width: 700px;
+    max-width: 700px;
     justify-content: center;
     margin: 0 auto;
     margin-bottom: 20px;
