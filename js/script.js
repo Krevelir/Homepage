@@ -12,7 +12,6 @@
     const toggleTheme = () => {
         toggleBodyClass();
         toggleThemeName();
-
     };
 
     const init = () => {
