@@ -21,6 +21,7 @@
 
 .navigation__item:hover {
     background-image: url("../images/backgroundbuttongoldhover.jpg");
+    text-decoration: underline;
 }
 
 .navigation__link {

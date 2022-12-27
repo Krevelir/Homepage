@@ -15,6 +15,7 @@
 
 .section__button:hover {
     background-image: url("../images/backgroundbuttongoldhover.jpg");
+    text-decoration: underline;
 }
 
 .section__header {
